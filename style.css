@@ -1,0 +1,30 @@
+ 
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    body{
+        text-align: center;
+        padding: 60px 30px;
+        justify-content: space-between;
+        
+    
+    }
+    .btn{
+        border: 3px solid antiquewhite;
+        color: #000;
+        background-color: skyblue;
+        padding: 15px 20px;
+        border-radius: 30px;
+    }
+    .addTodo{
+        background-color: blue;
+        border-radius: 40px;
+    }
+    /* .background-image{
+
+        background-image: url('./https://cdn.pixabay.com/photo/2014/04/03/00/30/pencil-308509_960_720.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+    } */
